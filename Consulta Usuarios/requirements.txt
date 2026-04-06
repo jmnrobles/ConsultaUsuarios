@@ -1,0 +1,19 @@
+# ======================================================
+# Dependencias externas necesarias para tu proyecto
+# ======================================================
+
+customtkinter>=5.4.2          # UI moderna basada en Tkinter
+requests>=2.31.0               # Para llamadas HTTP a Microsoft Graph y SharePoint
+msal>=1.26.0                   # Microsoft Authentication Library
+msal-extensions>=0.3.1         # Persistencia de tokens segura
+
+# ======================================================
+# Versiones de Python recomendadas
+# ======================================================
+python_version >= "3.10"
+
+# ======================================================
+# Notas:
+# - Tkinter no se instala por pip; viene con Python estándar.
+# - Librerías estándar usadas: os, sys, json, re, threading, datetime, hashlib, shutil
+# ======================================================
