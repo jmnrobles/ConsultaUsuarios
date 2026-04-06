@@ -84,6 +84,12 @@ CORREOS_AUTORIZADOS=admin@tuempresa.com,otro@tuempresa.com
 ```
 
 > ⚠️ **El fichero `.env` nunca debe subirse a Git.** Está incluido en `.gitignore`.
+>
+> ## Vista previa
+
+![Pantalla inicial](docs/PantallaInicial.png)
+![Pantalla principal](docs/PantallaPrincipal.png)
+![Comprobador de correos](docs/PantallaCorreo.png)
 
 ### 5. Ejecuta la aplicación
 
